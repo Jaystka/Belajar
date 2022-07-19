@@ -1,3 +1,1 @@
-Sedang Belajar
-Hehehe
-Tak ubah
+Di daun yang ikut mengalir lembut terbawa sungai ke ujung mata
