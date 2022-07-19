@@ -1,1 +1,1 @@
-Sedang Belajae
+Sedang Belajar
