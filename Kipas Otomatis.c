@@ -4,6 +4,7 @@
 #include <alcd.h>
 #include <stdio.h>
 
+// ini coba
 // Declare your global variables here 
 unsigned int adcout; // menggunakan unsigned supaya tidak bisa memasukan nilai negatif
 char temp[16]; //deklarasi variabel temp menggunakan 
