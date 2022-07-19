@@ -1,2 +1,3 @@
 Sedang Belajar
-Hehehehe
+Hehehe
+Tak ubah
